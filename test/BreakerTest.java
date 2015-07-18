@@ -84,6 +84,11 @@ public class BreakerTest {
 		resultado = cb.encontrarNumero("2453");
 		assertEquals("X___", resultado);
 	}
+
+	@Test
+	public void test(){
+		assertEquals(1,0);
+	}
 	
 
 
