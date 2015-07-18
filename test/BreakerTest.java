@@ -85,10 +85,6 @@ public class BreakerTest {
 		assertEquals("X___", resultado);
 	}
 
-	@Test
-	public void test(){
-		assertEquals(1,0);
-	}
 	
 
 
